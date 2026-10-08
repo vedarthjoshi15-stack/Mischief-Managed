@@ -1,0 +1,6 @@
+{
+  "name": "Mischief Managed",
+  "description": "A parody companion for Hogwash School with Marauder's Map, Sorting Hat, Nick-ish guide, and creature quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
